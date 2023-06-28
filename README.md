@@ -1,5 +1,8 @@
 # blivedm
 
+https://github.com/xfgryujk/blivedm/tree/dev
+https://cloud.tencent.com/developer/article/2218972
+
 Python获取bilibili直播弹幕的库，使用WebSocket协议
 
 [协议解释](https://blog.csdn.net/xfgryujk/article/details/80306776)（有点过时了，总体是没错的）
